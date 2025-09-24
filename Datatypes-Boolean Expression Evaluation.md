@@ -1,9 +1,6 @@
 
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
-NAME: Swetha K
-
-REG NO: 212224230284
 
 
 ## 🎯 Aim
